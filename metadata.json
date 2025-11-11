@@ -1,0 +1,5 @@
+{
+  "name": "Student Revision Hub",
+  "description": "An interactive web application for students to review lecture notes, practice with quizzes, and get instant answers from an AI-powered chatbot based on their course materials.",
+  "requestFramePermissions": []
+}
